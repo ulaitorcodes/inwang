@@ -1,0 +1,6 @@
+---
+
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/posxgabw/tnx-college.com/
+    - /bin/cp -r * $DEPLOYPATH
