@@ -2,5 +2,5 @@
 
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/posxgabw/tnx-college.com/
+    - export DEPLOYPATH=/home/johnetim/inwang.com.ng
     - /bin/cp -r * $DEPLOYPATH
